@@ -8,7 +8,10 @@ export default function App() {
       <h1>Crew Quest</h1>
       <h2>Mission Statement</h2>
       <p>
-        Our mission is to deliver exceptional services and foster innovation.
+        To empower college students in College Station to experience meaningful
+        and personalized hangouts by using AI-driven insights that align with
+        their unique preferences, budgets, and schedules—transforming everyday
+        outings into memorable adventures.
       </p>
 
       {/* ChatGPT Component */}
