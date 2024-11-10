@@ -1,0 +1,7 @@
+AI usage to take time, budget, and preference inputs, predict a possible unique experience, and explain that to the user in the home page.
+
+Will also use a maps API to pin the location(s) of interest and create a route for the user.
+
+Using a maps API will estimate the potential “crowd meter” of the location selected.
+
+Allow users to input their feedback after a quest and use that to change future predictions to tailor more to the users preferences.
