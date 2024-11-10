@@ -1,5 +1,10 @@
 # CrewQuestAi
-Created with CodeSandbox
+Created with CodeSandbox in the TIDAL Competion at TAMU
+Credit- 
+Yu-Chi Kung
+Daniel Bruni
+Calvin Fun
+Ryo Kato
 
 https://www.canva.com/design/DAGUCRhpAFs/SRgmrcJU6bDjHiggUTDp1w/edit?utm_content=DAGUCRhpAFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
