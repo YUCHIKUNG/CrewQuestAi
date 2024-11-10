@@ -2,6 +2,7 @@
 Created with CodeSandbox
 
 https://www.canva.com/design/DAGUCRhpAFs/SRgmrcJU6bDjHiggUTDp1w/edit?utm_content=DAGUCRhpAFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 This project provides a personalized experience for college students in College Station by creating unique “quests” tailored to each user's preferences. Students can input their budget, time frame, and specific interests, allowing an AI to design customized activities and itineraries that fit their lifestyle. The goal is to enhance social experiences by simplifying planning and encouraging students to explore College Station in a way that matches their unique needs.
 
 User Interface
