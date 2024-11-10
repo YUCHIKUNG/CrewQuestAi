@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* src/styles.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+  color: #333;
+}
+
+h2 {
+  font-size: 2em;
+  color: #666;
+}
+
+textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1em;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #aaa;
+}
+
+p {
+  font-size: 1.2em;
+  color: #444;
+}
